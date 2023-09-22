@@ -1,0 +1,8 @@
+{
+    "require": {
+        "davechild/textstatistics": "^1.0"
+    },
+    "require-dev": {
+        "helgesverre/domain-availability": "^1.7"
+    }
+}
